@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>机顶盒信息</h1>
+    <h1>创维机顶盒信息</h1>
     <table>
         <thead>
             <tr>
