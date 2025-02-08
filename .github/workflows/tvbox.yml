@@ -58,7 +58,7 @@ jobs:
           fi
 
       - name: Merge READMEs if there are new commits
-        if: ${{ env.secondLastcommit }}
+        if: ${{ env.secondLastCommitSHA }}
         run: |
           directories=("中兴" "九联" "创维" "华为")
           merged_file="/tmp/merged_readme.md"
@@ -79,7 +79,7 @@ jobs:
           echo -e "\nlast commit: $latestCommit" >> README.md
 
       - name: Commit and Push Changes
-        if: ${{ env.secondLastcommit }}
+        if: ${{ env.secondLastCommitSHA }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -88,5 +88,5 @@ jobs:
           git push
 
       - name: Exit if no new commits
-        if: ${{ env.secondLastcommit }}
+        if: ${{ env.secondLastCommitSHA }}
         run: echo "No new commits in the repository. Exiting."
