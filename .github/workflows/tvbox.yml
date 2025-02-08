@@ -30,50 +30,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Git
-        run: |
-          # 设置当前仓库的用户信息
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Check New Commit
-        id: check_commit
         run: |
-          # 获取最新提交的SHA值
-          commitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
+          upStream="https://github.com/${{  matrix.userName }}/${{ matrix.repoName }}"
+          echo "upStream=$upStream" >> $GITHUB_ENV
+          commit=$(curl -sL "https://api.github.com/repos/${{  matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
           if [ $? -ne 0 ]; then
-            echo "Failed to get commit from API. Please check the URL and network connection."
+            echo "Failed to get commit from API"
             exit 1
           fi
-          echo "commitSHA=$commitSHA" >> $GITHUB_ENV
-
-          # 获取所有发布标签中的SHA值
-          releaseList=$(curl -s "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/tags")
-          if echo "$releaseList" | jq -r '.[] | .commit.sha' | grep -q "$commitSHA"; then
-            echo "Latest commit SHA already exists in tags. Exiting workflow."
-            echo "run_steps=false" >> $GITHUB_ENV
-            exit 0
-          else
-            echo "New commit detected. Proceeding with further steps..."
-            echo "run_steps=true" >> $GITHUB_ENV
-          fi
-
-      - name: Check if commit is already processed
-        if: ${{ env.run_steps == 'true' }}
-        id: check_processed
-        run: |
-          commitSHA=${{ env.commitSHA }}
-          if grep -q "$commitSHA" README.md; then
-            echo "Commit already processed. Exiting."
-            echo "run_steps=false" >> $GITHUB_ENV
-            exit 1
-          else
-            echo "Commit not processed. Proceeding with merge operation."
-            echo "run_steps=true" >> $GITHUB_ENV
+          if [ -z "$commit" ] || ! grep -q "$commit" README.md; then
+            echo "commit=$commit" >> $GITHUB_ENV
+            echo "commitS=${commit:0:7}" >> $GITHUB_ENV
           fi
 
       - name: Merge READMEs if there are new commits
-        if: ${{ env.run_steps == 'true' }}
+        if: ${{ env.commit }}
         run: |
           # 定义要合并的目录和文件
           directories=("中兴" "九联" "创维" "华为")
@@ -100,5 +72,5 @@ jobs:
           git push
 
       - name: Exit if no new commits
-        if: ${{ env.run_steps == 'false' }}
+        if: ${{ env.commit }}
         run: echo "No new commits in the repository. Exiting."
