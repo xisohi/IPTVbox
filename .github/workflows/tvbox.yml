@@ -23,6 +23,13 @@ jobs:
         run: |
           # 获取当前分支的最新提交
           current_commit=$(git rev-parse HEAD)
+          # 检查是否至少有两个提交
+          commit_count=$(git rev-list --count HEAD)
+          if [ "$commit_count" -lt 2 ]; then
+            echo "new_commits=false" >> $GITHUB_OUTPUT
+            echo "Repository has less than 2 commits. Exiting."
+            exit 0
+          fi
           # 获取上一次提交
           previous_commit=$(git rev-parse HEAD~1)
           # 检查是否有新的提交
