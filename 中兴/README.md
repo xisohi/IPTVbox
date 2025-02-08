@@ -17,101 +17,119 @@
         <tbody>
             <tr>
                 <td>B760HV2</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S805</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B760EV3</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>ZX296702</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860A</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S812</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4/5G</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860AV1.1</td>
-                <td>单元格3</td>
+                <td>MSO9280</td>
                 <td>4.4.2</td>
                 <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>2.4G</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860AV1.1T</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905MB</td>
+                <td>6.0</td>
+                <td>6.0</td>
+                <td>2.4G</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860AV1.1-T2</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
+                <td></td>
+                <td></td>
+                <td></td>
                 <td>无线</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860AV1.2</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905M-B</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860AV2.1</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>B860AV2.1-T</td>
+                <td>S905L</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>B860AV2.1-T</td>
+                <td>S905L3-B</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860AV2.2</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860AV3.1-M2</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3-B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4/5G</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B860AV3.1-T2</td>
                 <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -125,11 +143,11 @@
             </tr>
             <tr>
                 <td>B860AV3.2-T</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3SB</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
