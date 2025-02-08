@@ -1,0 +1,55 @@
+name: Check and Merge READMEs
+
+on:
+  schedule:
+    - cron: "0 8 * * *"  # 每天8点运行
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  check_and_merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Check for new commits in the repository
+        id: check_commits
+        run: |
+          # 获取当前分支的最新提交
+          current_commit=$(git rev-parse HEAD)
+          # 获取上一次提交
+          previous_commit=$(git rev-parse HEAD~1)
+          # 检查是否有新的提交
+          if [ "$current_commit" != "$previous_commit" ]; then
+            echo "new_commits=true" >> $GITHUB_OUTPUT
+          else
+            echo "new_commits=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Merge READMEs if there are new commits
+        if: steps.check_commits.outputs.new_commits == 'true'
+        run: |
+          # 合并指定目录下的 README.md 文件内容
+          cat 中兴/README.md >> /tmp/merged_readme.md
+          echo -e "\n" >> /tmp/merged_readme.md
+          cat 九联/README.md >> /tmp/merged_readme.md
+          echo -e "\n" >> /tmp/merged_readme.md
+          cat 创维/README.md >> /tmp/merged_readme.md
+          echo -e "\n" >> /tmp/merged_readme.md
+          cat 绘为/README.md >> /tmp/merged_readme.md
+          
+          # 替换根目录下的 README.md 文件内容
+          mv /tmp/merged_readme.md README.md
+          git add README.md
+          git commit -m "Merge READMEs from subdirectories"
+          git push
+
+      - name: Exit if no new commits
+        if: steps.check_commits.outputs.new_commits == 'false'
+        run: echo "No new commits in the repository. Exiting."
