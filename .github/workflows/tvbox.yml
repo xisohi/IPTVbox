@@ -40,14 +40,15 @@ jobs:
             exit 1
           fi
           echo "latestCommit=$latestCommit" >> $GITHUB_ENV
-          # 获取倒数第二次提交的SHA值
-          secondLastCommitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.parents[1].sha')
+
+           # 获取倒数第二次提交的SHA值
+           secondLastCommitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.parents[0].sha')
           if [ $? -ne 0 ]; then
-            echo "Failed to get second last commit from API. Please check the URL and network connection."
-            exit 1
+             echo "Failed to get second last commit from API. Please check the URL and network connection."
+             exit 1
           fi
           echo "secondLastCommitSHA=$secondLastCommitSHA" >> $GITHUB_ENV
-          
+
       - name: Check SHA
         id: check_SHA
         run: |
