@@ -40,6 +40,7 @@ jobs:
       - name: Check secondLastCommitSHA
         id: check_secondLastCommitSHA
         run: |
+          # 获取倒数第二次提交的SHA值，并检查倒数第二次提交的SHA值是否在 README.md 文件中，如要在就退出，不在就执行剩余代码
           commit=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.parents[0].sha')
           if [ $? -ne 0 ]; then
             echo "Failed to get commit from API"
@@ -52,6 +53,7 @@ jobs:
       - name: Merge READMEs if there are new commits
         if: ${{ env.commit }}
         run: |
+          # 合并文件目录中README.md内容，并追加最新提交的SHA值，
           directories=("中兴" "九联" "创维" "华为")
           merged_file="/tmp/merged_readme.md"
           > "$merged_file"
@@ -68,7 +70,7 @@ jobs:
 
           mv "$merged_file" README.md
           latestCommit=${{ env.latestCommit }}
-          echo -e "\nlast commit: $latestCommit" >> README.md
+          echo -e "\n最新提交的SHA值: $latestCommit" >> README.md
 
       - name: Commit and Push Changes
         if: ${{ env.commit }}
