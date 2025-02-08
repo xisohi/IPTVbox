@@ -17,11 +17,11 @@
         <tbody>
             <tr>
                 <td>E820</td>
-                <td>单</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>Amlogic 8726-MX</td>
+                <td>4.2</td>
+                <td>4.2</td>
+                <td>无</td>
+                <td>1-4G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -44,11 +44,11 @@
             </tr>
             <tr>
                 <td>E900-S</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>HI3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G/5G</td>
+                <td>1+8</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -62,7 +62,7 @@
             </tr>
             <tr>
                 <td>E900V20D</td>
-                <td></td>
+                <td>GK6323</td>
                 <td></td>
                 <td></td>
                 <td>无</td>
@@ -89,11 +89,11 @@
             </tr>
             <tr>
                 <td>E900V21E</td>
+                <td>S905L3-B</td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td>无线</td>  
-                <td>配置</td>
+                <td>无</td>  
+                <td>1+8</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -138,7 +138,7 @@
             </tr>
             <tr>
                 <td>E900V22F</td>
-                <td></td>
+                <td>S905L3SB</td>
                 <td></td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
