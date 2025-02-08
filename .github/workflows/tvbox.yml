@@ -62,7 +62,7 @@ jobs:
           echo -e "\n" >> /tmp/merged_readme.md
           cat 创维/README.md >> /tmp/merged_readme.md
           echo -e "\n" >> /tmp/merged_readme.md
-          cat 绘为/README.md >> /tmp/merged_readme.md
+          cat 华为/README.md >> /tmp/merged_readme.md
           
           # 替换根目录下的 README.md 文件内容
           mv /tmp/merged_readme.md README.md
