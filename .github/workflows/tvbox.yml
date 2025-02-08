@@ -75,6 +75,10 @@ jobs:
       - name: hebin
         if: ${{ env.commit }}
         run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url --add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git pull --rebase
           # 提交更改
           git add README.md
           git commit -m "Merge READMEs from subdirectories and append latest commit SHA"
