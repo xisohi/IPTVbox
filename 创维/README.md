@@ -124,8 +124,8 @@
             </tr>
             <tr>
                 <td rowspan="2">E900V22E</td>
-                <td>905L3B</td>
-                <td></td>
+                <td rowspan="2">905L3B</td>
+                <td rowspan="2"></td>
                 <td rowspan="2">9.0</td>
                 <td>2.4G/5G</td>
                 <td>2+8</td>
