@@ -45,7 +45,7 @@ jobs:
           fi
 
       - name: Merge READMEs if there are new commits
-        if: ${{ env.run_steps == 'true' }}
+        if: ${{ env.commit }}
         run: |
           # 定义要合并的目录和文件
           directories=("中兴" "九联" "创维" "华为")
