@@ -50,8 +50,8 @@
                 <td>E900V20C</td>
                 <td></td>
                 <td></td>
+                <td>9.0</td>
                 <td></td>
-                <td>无线</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -59,7 +59,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td>无线</td>
+                <td>无</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -67,7 +67,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td>无线</td>
+                <td></td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -75,7 +75,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td>无线</td>
+                <td>无</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -83,12 +83,12 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td>无线</td>
+                <td>无线</td>  
                 <td>备注</td>
             </tr>
             <tr>
                 <td>E900V22C/D</td>
-                <td></td>
+                <td>905L3A</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>

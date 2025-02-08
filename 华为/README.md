@@ -24,18 +24,18 @@
             </tr>
             <tr>
                 <td>EC6108V9/V9U/V92/V97/V9C</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>EC6108V9A</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
+                <td>RK3128</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -79,10 +79,10 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6110T</td>
+                <td>EC6110M/T/U</td>
+                <td>Hi3798MV310</td>
                 <td></td>
-                <td></td>
-                <td></td>
+                <td>9.0</td>
                 <td>无线</td>
                 <td>备注</td>
             </tr>
