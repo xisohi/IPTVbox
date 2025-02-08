@@ -34,16 +34,25 @@ jobs:
         id: check_commit
         run: |
           # 获取最新提交的SHA值
-          commitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
+          latestCommitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
           if [ $? -ne 0 ]; then
-            echo "Failed to get commit from API. Please check the URL and network connection."
+            echo "Failed to get latest commit from API. Please check the URL and network connection."
             exit 1
           fi
-          echo "commitSHA=$commitSHA" >> $GITHUB_ENV
 
-          # 检查 README.md 文件中是否已经包含当前提交的SHA值
-          if grep -q "$commitSHA" README.md; then
-            echo "Commit already processed. Exiting."
+          # 获取倒数第二次提交的SHA值
+          secondLastCommitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.parents[1].sha')
+          if [ $? -ne 0 ]; then
+            echo "Failed to get second last commit from API. Please check the URL and network connection."
+            exit 1
+          fi
+
+          echo "latestCommitSHA=$latestCommitSHA" >> $GITHUB_ENV
+          echo "secondLastCommitSHA=$secondLastCommitSHA" >> $GITHUB_ENV
+
+          # 检查 README.md 文件中是否已经包含倒数第二次提交的SHA值
+          if grep -q "$secondLastCommitSHA" README.md; then
+            echo "Second last commit already processed. Exiting."
             echo "run_steps=false" >> $GITHUB_ENV
           else
             echo "New commit detected. Proceeding with further steps..."
