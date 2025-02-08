@@ -99,36 +99,50 @@
             <tr>
                 <td rowspan="2">E900V22C</td>
                 <td>905L3A</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>905L3(B)</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>905L3A-B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>E900V22D</td>
-                <td>905L3A</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>905L3A-B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>E900V22E</td>
+                <td>905L3B</td>
+                <td></td>
+                <td rowspan="2">9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>无</td>
+                <td>2+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>E900V22F</td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8</td>
                 <td>备注</td>
             </tr>
             <tr>
