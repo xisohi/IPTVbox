@@ -97,7 +97,24 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E900V22C/D</td>
+                <td rowspan="2">E900V22C</td>
+                <td>905L3A</td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>905L3(B)</td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>E900V22D</td>
                 <td>905L3A</td>
                 <td></td>
                 <td></td>
