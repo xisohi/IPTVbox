@@ -123,7 +123,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E900V22E</td>
+                <td rowspan="2">E900V22E</td>
                 <td>905L3B</td>
                 <td></td>
                 <td rowspan="2">9.0</td>
