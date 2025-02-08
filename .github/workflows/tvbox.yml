@@ -84,8 +84,8 @@ jobs:
           mv "$merged_file" README.md
 
           # 追加最新的提交哈希值
-          commitSHA=${{ env.commitSHA }}
-          echo -e "\nLatest commit: $commitSHA" >> README.md
+          commitSHA=${{ env.latestCommitSHA }}
+          echo -e "\n最新提交: $commitSHA" >> README.md
 
       - name: Commit and Push Changes
         if: ${{ env.run_steps == 'true' }}
