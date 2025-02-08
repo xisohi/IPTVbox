@@ -2,45 +2,58 @@ name: Check and Merge READMEs
 
 on:
   schedule:
-    - cron: "0 8 * * *"  # 每天8点运行
-  workflow_dispatch:  # 手动触发
+    - cron: '0 8 * * *'  # 每天8点触发
+  workflow_dispatch:
+    inputs:
+      rebuild:
+        description: '忽略构建记录以重新构建'
+        required: false
+        type: boolean
+      donotpublish:
+        description: '构建后不提交发布新版'
+        required: false
+        type: boolean
 
 jobs:
-  check_and_merge:
+  build:
     runs-on: ubuntu-latest
-
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - userName: xisohi
+            repoName: tvbox
+            branchName: main
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Set up Git
+      - name: Check New Commit
+        id: check_commit
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Check for new commits in the repository
-        id: check_commits
-        run: |
-          # 获取当前分支的最新提交
-          current_commit=$(git rev-parse HEAD)
-          # 检查是否至少有两个提交
-          commit_count=$(git rev-list --count HEAD)
-          if [ "$commit_count" -lt 2 ]; then
-            echo "new_commits=false" >> $GITHUB_OUTPUT
-            echo "Repository has less than 2 commits. Exiting."
-            exit 0
+          # 获取最新提交的SHA值
+          commitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
+          if [ $? -ne 0 ]; then
+            echo "Failed to get commit from API"
+            exit 1
           fi
-          # 获取上一次提交
-          previous_commit=$(git rev-parse HEAD~1)
-          # 检查是否有新的提交
-          if [ "$current_commit" != "$previous_commit" ]; then
-            echo "new_commits=true" >> $GITHUB_OUTPUT
+          echo "commitSHA=$commitSHA" >> $GITHUB_ENV
+
+          # 获取所有发布标签中的SHA值
+          releaseList=$(curl -s "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/tags")
+          if echo "$releaseList" | jq -r '.[] | .commit.sha' | grep -q "$commitSHA"; then
+            echo "Latest commit SHA already exists in tags. Exiting workflow."
+            echo "run_steps=false" >> $GITHUB_ENV
+            exit 0
           else
-            echo "new_commits=false" >> $GITHUB_OUTPUT
+            echo "New commit detected. Proceeding with further steps..."
+            echo "run_steps=true" >> $GITHUB_ENV
           fi
 
       - name: Merge READMEs if there are new commits
-        if: steps.check_commits.outputs.new_commits == 'true'
+        if: ${{ env.run_steps == 'true' }}
         run: |
           # 合并指定目录下的 README.md 文件内容
           cat 中兴/README.md >> /tmp/merged_readme.md
@@ -58,5 +71,5 @@ jobs:
           git push
 
       - name: Exit if no new commits
-        if: steps.check_commits.outputs.new_commits == 'false'
+        if: ${{ env.run_steps == 'false' }}
         run: echo "No new commits in the repository. Exiting."
