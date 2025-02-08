@@ -64,7 +64,9 @@ jobs:
               echo "Warning: $readme_file does not exist. Skipping."
             fi
           done
-
+      - name: hebin
+        if: ${{ env.commit }}
+        run: |
           # 替换根目录下的 README.md 文件内容
           mv "$merged_file" README.md
           git add README.md
