@@ -31,21 +31,27 @@ jobs:
           fetch-depth: 0
 
       - name: Check New Commit
+        id: check_commit
         run: |
-          upStream="https://github.com/${{  matrix.userName }}/${{ matrix.repoName }}"
-          echo "upStream=$upStream" >> $GITHUB_ENV
-          commit=$(curl -sL "https://api.github.com/repos/${{  matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
+          # 获取最新提交的SHA值
+          commitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
           if [ $? -ne 0 ]; then
-            echo "Failed to get commit from API"
+            echo "Failed to get commit from API. Please check the URL and network connection."
             exit 1
           fi
-          if [ -z "$commit" ] || ! grep -q "$commit" README.md; then
-            echo "commit=$commit" >> $GITHUB_ENV
-            echo "commitS=${commit:0:7}" >> $GITHUB_ENV
+          echo "commitSHA=$commitSHA" >> $GITHUB_ENV
+
+          # 检查 README.md 文件中是否已经包含当前提交的SHA值
+          if grep -q "$commitSHA" README.md; then
+            echo "Commit already processed. Exiting."
+            echo "run_steps=false" >> $GITHUB_ENV
+          else
+            echo "New commit detected. Proceeding with further steps..."
+            echo "run_steps=true" >> $GITHUB_ENV
           fi
 
       - name: Merge READMEs if there are new commits
-        if: ${{ env.commit }}
+        if: ${{ env.run_steps == 'true' }}
         run: |
           # 定义要合并的目录和文件
           directories=("中兴" "九联" "创维" "华为")
@@ -72,18 +78,15 @@ jobs:
           commitSHA=${{ env.commitSHA }}
           echo -e "\nLatest commit: $commitSHA" >> README.md
 
-      - name: hebin
-        if: ${{ env.commit }}
+      - name: Commit and Push Changes
+        if: ${{ env.run_steps == 'true' }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote set-url --add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git pull --rebase
-          # 提交更改
           git add README.md
           git commit -m "Merge READMEs from subdirectories and append latest commit SHA"
           git push
 
       - name: Exit if no new commits
-        if: ${{ env.commit }}
+        if: ${{ env.run_steps == 'false' }}
         run: echo "No new commits in the repository. Exiting."
