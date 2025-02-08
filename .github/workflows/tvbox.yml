@@ -35,30 +35,22 @@ jobs:
         run: |
           # 获取最新提交的SHA值
           latestCommit=$(curl -sL "https://api.github.com/repos/${{  matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
+          echo "latestCommit=$latestCommit" >> $GITHUB_ENV
+
+      - name: Check secondLastCommitSHA
+        id: check_secondLastCommitSHA
+        run: |
+          commit=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.parents[0].sha')
           if [ $? -ne 0 ]; then
             echo "Failed to get commit from API"
             exit 1
           fi
-          echo "latestCommit=$latestCommit" >> $GITHUB_ENV
-
-           # 获取倒数第二次提交的SHA值
-           secondLastCommitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.parents[0].sha')
-          if [ $? -ne 0 ]; then
-             echo "Failed to get second last commit from API. Please check the URL and network connection."
-             exit 1
+          if [ -z "$commit" ] || ! grep -q "$commit" README.md; then
+            echo "commit=$commit" >> $GITHUB_ENV
+            echo "commitS=${commit:0:7}" >> $GITHUB_ENV
           fi
-          echo "secondLastCommitSHA=$secondLastCommitSHA" >> $GITHUB_ENV
-
-      - name: Check SHA
-        id: check_SHA
-        run: |
-          # 检查倒数第二次提交的SHA值是否在 README.md 文件中
-          if [ -z "$secondLastCommitSHA" ] || ! grep -q "$secondLastCommitSHA" README.md; then
-            echo "commitS=${secondLastCommitSHA:0:7}" >> $GITHUB_ENV
-          fi
-
       - name: Merge READMEs if there are new commits
-        if: ${{ env.secondLastCommitSHA }}
+        if: ${{ env.commit }}
         run: |
           directories=("中兴" "九联" "创维" "华为")
           merged_file="/tmp/merged_readme.md"
@@ -79,14 +71,10 @@ jobs:
           echo -e "\nlast commit: $latestCommit" >> README.md
 
       - name: Commit and Push Changes
-        if: ${{ env.secondLastCommitSHA }}
+        if: ${{ env.commit }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Merge READMEs from subdirectories and append second last commit SHA"
           git push
-
-      - name: Exit if no new commits
-        if: ${{ env.secondLastCommitSHA }}
-        run: echo "No new commits in the repository. Exiting."
