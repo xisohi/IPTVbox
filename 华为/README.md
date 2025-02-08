@@ -30,7 +30,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G</td>
-                <td>配置</td>
+                <td>1+8</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -93,7 +93,7 @@
                 <td></td>
                 <td>9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
         </tbody>
