@@ -36,7 +36,7 @@ jobs:
           # 获取最新提交的SHA值
           commitSHA=$(curl -sL "https://api.github.com/repos/${{ matrix.userName }}/${{ matrix.repoName }}/commits/${{ matrix.branchName }}" | jq -r '.sha')
           if [ $? -ne 0 ]; then
-            echo "Failed to get commit from API"
+            echo "Failed to get commit from API. Please check the URL and network connection."
             exit 1
           fi
           echo "commitSHA=$commitSHA" >> $GITHUB_ENV
@@ -52,20 +52,43 @@ jobs:
             echo "run_steps=true" >> $GITHUB_ENV
           fi
 
+      - name: Check if commit is already processed
+        if: ${{ env.run_steps == 'true' }}
+        id: check_processed
+        run: |
+          commitSHA=${{ env.commitSHA }}
+          if grep -q "$commitSHA" README.md; then
+            echo "Commit already processed. Exiting."
+            echo "run_steps=false" >> $GITHUB_ENV
+            exit 1
+          else
+            echo "Commit not processed. Proceeding with merge operation."
+            echo "run_steps=true" >> $GITHUB_ENV
+          fi
+
       - name: Merge READMEs if there are new commits
         if: ${{ env.run_steps == 'true' }}
         run: |
-          # 合并指定目录下的 README.md 文件内容
-          cat 中兴/README.md >> /tmp/merged_readme.md
-          echo -e "\n" >> /tmp/merged_readme.md
-          cat 九联/README.md >> /tmp/merged_readme.md
-          echo -e "\n" >> /tmp/merged_readme.md
-          cat 创维/README.md >> /tmp/merged_readme.md
-          echo -e "\n" >> /tmp/merged_readme.md
-          cat 华为/README.md >> /tmp/merged_readme.md
-          
+          # 定义要合并的目录和文件
+          directories=("中兴" "九联" "创维" "华为")
+          merged_file="/tmp/merged_readme.md"
+
+          # 初始化合并文件
+          > "$merged_file"
+
+          # 遍历目录并合并 README.md 文件
+          for dir in "${directories[@]}"; do
+            readme_file="${dir}/README.md"
+            if [ -f "$readme_file" ]; then
+              cat "$readme_file" >> "$merged_file"
+              echo -e "\n" >> "$merged_file"
+            else
+              echo "Warning: $readme_file does not exist. Skipping."
+            fi
+          done
+
           # 替换根目录下的 README.md 文件内容
-          mv /tmp/merged_readme.md README.md
+          mv "$merged_file" README.md
           git add README.md
           git commit -m "Merge READMEs from subdirectories"
           git push
