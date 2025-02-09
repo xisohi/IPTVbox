@@ -73,14 +73,20 @@ jobs:
           echo -e "\n最新提交的SHA值: $latestCommit" >> README.md
 
           # 复制 README.md 文件到 index.html
-          cp README.md index.md 
+          cp README.md index.html 
+          
           # 使用 sed 在文件中添加 CSS 样式
-          sed -i '1s/^/<style>\n\table { width: 100%; border-collapse: collapse; }\n\th, td { border: 1px solid #000; padding: 8px; text-align: left; }\n\th { background-color: #f2f2f2; }\n\  </style>\n/'  index.md
+          sed -i '1s/^/<style>\n\
+          table { width: 100%; border-collapse: collapse; }\n\
+          th, td { border: 1px solid #000; padding: 8px; text-align: left; }\n\
+          th { background-color: #f2f2f2; }\n\
+          </style>\n/' index.html
+
       - name: Commit and Push Changes
         if: ${{ env.commit }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md index.md
+          git add README.md index.html
           git commit -m "Merge READMEs from subdirectories and append second last commit SHA"
           git push
