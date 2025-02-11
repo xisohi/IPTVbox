@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>魔百盒机顶盒信息</h1>
+    <h1>魔百和机顶盒信息</h1>
     <table>
         <thead>
             <tr>
@@ -196,7 +196,16 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>M401M/M411M</td>
+                <td>M401M</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>M411M</td>
                 <td></td>
                 <td></td>
                 <td></td>

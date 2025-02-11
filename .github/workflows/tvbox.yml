@@ -54,7 +54,7 @@ jobs:
         if: ${{ env.commit }}
         run: |
           # 合并文件目录中README.md内容，并追加最新提交的SHA值，
-          directories=("中兴" "九联" "创维" "华为" "海信" "烽火" "魔百盒")
+          directories=("中兴" "九联" "创维" "华为" "海信" "烽火" "魔百和")
           merged_file="/tmp/merged_readme.md"
           > "$merged_file"
 
