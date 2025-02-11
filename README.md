@@ -836,7 +836,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>魔百盒机顶盒信息</h1>
+    <h1>魔百和机顶盒信息</h1>
     <table>
         <thead>
             <tr>
@@ -1031,7 +1031,16 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>M401M/M411M</td>
+                <td>M401M</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>M411M</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -1064,4 +1073,4 @@
 
 
 
-最新提交的SHA值: b7de92fcc0a835b23b9cdf5ab91b482772a45831
+最新提交的SHA值: b61f969e698abc96c3f1406f71edbdaa14d6da0a
