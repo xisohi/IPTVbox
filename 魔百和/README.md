@@ -197,10 +197,10 @@
             </tr>
             <tr>
                 <td>M401M</td>
+                <td>MSO9385</td>
+                <td>4.4.2</td>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
+                <td>无</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
