@@ -1,4 +1,4 @@
-name: Check and Merge READMEs
+name: Check 和 Merge READMEs
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
       matrix:
         include:
           - userName: xisohi
-            repoName: tvbox
+            repoName: IPTVbox
             branchName: main
     steps:
       - name: Checkout
