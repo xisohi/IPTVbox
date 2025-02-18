@@ -161,38 +161,38 @@
             </tr>
             <tr>
                 <td>B862AV3.2M</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B863AV3.1-M2</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3A</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B863AV3.2M</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3A-B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>B863AV3.2T</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3A-B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
          </tbody>
@@ -1082,4 +1082,4 @@
 
 
 
-最新提交的SHA值: 4d1cc92a9deb676095db558b21164516e4f8e94c
+最新提交的SHA值: 2f9b1148f8849e1cdcd70a6d3824c75fe019af8b
