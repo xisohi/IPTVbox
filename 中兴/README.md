@@ -134,11 +134,11 @@
             </tr>
             <tr>
                 <td>B860AV3.2-M</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
