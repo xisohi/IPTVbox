@@ -61,7 +61,16 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>IP202H/IP203H</td>
+                <td>IP202H</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>IP203H</td>
                 <td></td>
                 <td></td>
                 <td></td>

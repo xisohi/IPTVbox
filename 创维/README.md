@@ -16,6 +16,24 @@
         </thead>
         <tbody>
             <tr>
+                <td>A1/A1C/A1Plus/A3/A5/A7/A8/A9/A11/A11Plus</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>A810/A818/A818c/A818S</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>E820</td>
                 <td>Amlogic 8726-MX</td>
                 <td>4.2</td>
@@ -27,15 +45,6 @@
             <tr>
                 <td>E900</td>
                 <td>高安版</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>E900/E900-S/E910E/E950</td>
-                <td>非高安版</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
@@ -146,6 +155,15 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>E910E</td>
+                <td>非高安版</td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>E910V10C</td>
                 <td></td>
                 <td></td>
@@ -155,17 +173,8 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>A1/A1C/A1Plus/A3/A5/A7/A8/A9/A11/A11Plus</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>A810/A818/A818c/A818S</td>
-                <td></td>
+                <td>E950</td>
+                <td>非高安版</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>

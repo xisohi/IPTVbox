@@ -16,7 +16,16 @@
         </thead>
         <tbody>
             <tr>
-                <td>HG680-GC/GY</td>
+                <td>HG680-GC</td>
+                <td>单</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-GY</td>
                 <td>单</td>
                 <td>4.4.2</td>
                 <td>4.4.2</td>
@@ -26,7 +35,7 @@
             </tr>
             <tr>
                 <td>HG680KA</td>
-                <td></td>
+                <td>GK6323</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
@@ -52,24 +61,6 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680KA/KB</td>
-                <td>GK6323</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>HG680KB</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
                 <td>HG680-L</td>
                 <td></td>
                 <td></td>
@@ -79,7 +70,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680-LC/LY/LV</td>
+                <td>HG680-LC</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -88,7 +79,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680-MC/HG680-MY</td>
+                <td>HG680-LV</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -97,7 +88,43 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680-J/V</td>
+                <td>HG680-LY</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-MC</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-MY</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-J</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-V</td>
                 <td></td>
                 <td></td>
                 <td></td>

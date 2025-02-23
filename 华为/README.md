@@ -25,7 +25,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6108V9/V9U/V92/V97/V9C</td>
+                <td>EC6108V9</td>
                 <td>Hi3798MV100</td>
                 <td>4.4.2</td>
                 <td>4.4.2</td>
@@ -43,12 +43,57 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6108V9I/V9E</td>
+                <td>EC6108V9C</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
+                <td>1+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V9E</td>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
                 <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V9I</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V9U</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
+                <td>1+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V92</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
+                <td>1+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V97</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
+                <td>1+8</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -61,7 +106,16 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6109U/M/悦盒Q21</td>
+                <td>EC6109U</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6109M</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -79,6 +133,15 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>悦盒Q21</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>Q22</td>
                 <td></td>
                 <td></td>
@@ -88,7 +151,25 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6110M/T/U</td>
+                <td>EC6110M</td>
+                <td>Hi3798MV310</td>
+                <td></td>
+                <td>9.0</td>
+                <td>无线</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6110T</td>
+                <td>Hi3798MV310</td>
+                <td></td>
+                <td>9.0</td>
+                <td>无线</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6110U</td>
                 <td>Hi3798MV310</td>
                 <td></td>
                 <td>9.0</td>

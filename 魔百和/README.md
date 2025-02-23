@@ -16,7 +16,16 @@
         </thead>
         <tbody>
              <tr>
-                <td>CM101S/CM101S-2</td>
+                <td>CM101S</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+             <tr>
+                <td>CM101S-2</td>
                 <td></td>
                 <td></td>
                 <td></td>

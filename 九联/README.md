@@ -16,7 +16,25 @@
         </thead>
         <tbody>
              <tr>
-                <td>UNT400B/C/D</td>
+                <td>UNT400B</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+             <tr>
+                <td>UNT400C</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+             <tr>
+                <td>UNT400D</td>
                 <td></td>
                 <td></td>
                 <td></td>
