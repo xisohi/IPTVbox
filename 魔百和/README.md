@@ -234,10 +234,10 @@
             <tr>
                 <td>M401M</td>
                 <td>MSO9385</td>
-                <td>9.0</td>
-                <td>9.0</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
                 <td>无</td>
-                <td>1+8G</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
