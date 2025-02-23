@@ -71,29 +71,29 @@
             </tr>
             <tr>
                 <td>HG680-LC</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>HG680-LV</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>HG680-LY</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -142,21 +142,21 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG820-KK</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>MR820-KK</td>
+                <td>HI3798M </td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG820-LK</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>MR820-LK</td>
+                <td>HI3798MV310</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
         </tbody>
