@@ -125,10 +125,10 @@
             </tr>
             <tr>
                 <td>B860AV3.1-T2</td>
-                <td>单元格3</td>
+                <td>S905L3SB</td>
                 <td>9.0</td>
                 <td>9.0</td>
-                <td>无线</td>
+                <td>无</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -152,11 +152,11 @@
             </tr>
             <tr>
                 <td>B862AV3.1-M2</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>MSO9385</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
