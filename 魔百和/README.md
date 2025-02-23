@@ -106,12 +106,39 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>CM311</td>
+                <td>CM311-1</td>
+                <td>S905L3</td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>无</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>CM311-1a</td>
+                <td>S905L3A</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+16G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>CM311-1Sa</td>
+                <td>S905L3A</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>CM311-3</td>
+                <td>S905L3A</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -207,36 +234,36 @@
             <tr>
                 <td>M401M</td>
                 <td>MSO9385</td>
-                <td>4.4.2</td>
-                <td></td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>M411M</td>
+                <td>MSO9385</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>M411A</td>
+                <td>S905L3</td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>无</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>M411M</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>M411A</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
                 <td>ZN90</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
+                <td>S905L3B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
