@@ -134,11 +134,11 @@
             </tr>
             <tr>
                 <td>B860AV3.2-M</td>
-                <td>单元格3</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -219,7 +219,25 @@
         </thead>
         <tbody>
              <tr>
-                <td>UNT400B/C/D</td>
+                <td>UNT400B</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+             <tr>
+                <td>UNT400C</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+             <tr>
+                <td>UNT400D</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -332,6 +350,24 @@
         </thead>
         <tbody>
             <tr>
+                <td>A1/A1C/A1Plus/A3/A5/A7/A8/A9/A11/A11Plus</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>A810/A818/A818c/A818S</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>E820</td>
                 <td>Amlogic 8726-MX</td>
                 <td>4.2</td>
@@ -343,15 +379,6 @@
             <tr>
                 <td>E900</td>
                 <td>高安版</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>E900/E900-S/E910E/E950</td>
-                <td>非高安版</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
@@ -462,6 +489,15 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>E910E</td>
+                <td>非高安版</td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>E910V10C</td>
                 <td></td>
                 <td></td>
@@ -471,17 +507,8 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>A1/A1C/A1Plus/A3/A5/A7/A8/A9/A11/A11Plus</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>A810/A818/A818c/A818S</td>
-                <td></td>
+                <td>E950</td>
+                <td>非高安版</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
@@ -521,7 +548,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6108V9/V9U/V92/V97/V9C</td>
+                <td>EC6108V9</td>
                 <td>Hi3798MV100</td>
                 <td>4.4.2</td>
                 <td>4.4.2</td>
@@ -539,12 +566,57 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6108V9I/V9E</td>
+                <td>EC6108V9C</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
+                <td>1+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V9E</td>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
                 <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V9I</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V9U</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
+                <td>1+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V92</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
+                <td>1+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6108V97</td>
+                <td>Hi3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
+                <td>1+8</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -557,7 +629,16 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6109U/M/悦盒Q21</td>
+                <td>EC6109U</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6109M</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -575,6 +656,15 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>悦盒Q21</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>Q22</td>
                 <td></td>
                 <td></td>
@@ -584,7 +674,25 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6110M/T/U</td>
+                <td>EC6110M</td>
+                <td>Hi3798MV310</td>
+                <td></td>
+                <td>9.0</td>
+                <td>无线</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6110T</td>
+                <td>Hi3798MV310</td>
+                <td></td>
+                <td>9.0</td>
+                <td>无线</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6110U</td>
                 <td>Hi3798MV310</td>
                 <td></td>
                 <td>9.0</td>
@@ -661,7 +769,16 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>IP202H/IP203H</td>
+                <td>IP202H</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>IP203H</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -720,7 +837,16 @@
         </thead>
         <tbody>
             <tr>
-                <td>HG680-GC/GY</td>
+                <td>HG680-GC</td>
+                <td>单</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-GY</td>
                 <td>单</td>
                 <td>4.4.2</td>
                 <td>4.4.2</td>
@@ -730,7 +856,7 @@
             </tr>
             <tr>
                 <td>HG680KA</td>
-                <td></td>
+                <td>GK6323</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
@@ -756,24 +882,6 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680KA/KB</td>
-                <td>GK6323</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>HG680KB</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
                 <td>HG680-L</td>
                 <td></td>
                 <td></td>
@@ -783,7 +891,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680-LC/LY/LV</td>
+                <td>HG680-LC</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -792,7 +900,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680-MC/HG680-MY</td>
+                <td>HG680-LV</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -801,7 +909,43 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680-J/V</td>
+                <td>HG680-LY</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-MC</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-MY</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-J</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HG680-V</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -860,7 +1004,16 @@
         </thead>
         <tbody>
              <tr>
-                <td>CM101S/CM101S-2</td>
+                <td>CM101S</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+             <tr>
+                <td>CM101S-2</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -1082,4 +1235,4 @@
 
 
 
-最新提交的SHA值: 2f9b1148f8849e1cdcd70a6d3824c75fe019af8b
+最新提交的SHA值: 0442727871cf48f51257af41746ea0ce54303e15
