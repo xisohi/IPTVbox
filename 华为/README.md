@@ -98,56 +98,65 @@
             </tr>
             <tr>
                 <td>EC6109-T</td>
-                <td>HI3798MV200</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>Hi3798MV200</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G/5G</td>
+                <td>1+8</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>EC6109U</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>Hi3798MV200</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>EC6109M</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>Hi3798MV200</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G/5G</td>
+                <td>1+8</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>EC6110</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>EC6110-M</td>
+                <td>Hi3798MV310/td>
+                <td>4.4.2/9.0</td>
+                <td>4.4.2/9.0</td>
+                <td>2.4G/5G</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>EC6110-T</td>
+                <td>Hi3798MV310</td>
+                <td>4.4/9.0</td>
+                <td>4.4/9.0</td>
+                <td>2.4G/5G</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>悦盒Q21</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>Hi3798MV200</td>
+                <td>5.1</td>
+                <td>5.1</td>
+                <td>无</td>
+                <td>1+4G</td>
+                <td>2.4G/5G</td>
             </tr>
             <tr>
                 <td>Q22</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>Hi3798C</td>
+                <td>5.1</td>
+                <td>5.1</td>
+                <td>无</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
