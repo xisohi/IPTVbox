@@ -16,7 +16,16 @@
         </thead>
         <tbody>
             <tr>
-                <td>A1/A1C/A1Plus/A3/A5/A7/A8/A9/A11/A11Plus</td>
+                <td>A1/A1C/A1Plus/A11/A11Plus</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>A3/A5/A7/A8/A9</td>
                 <td></td>
                 <td></td>
                 <td></td>
