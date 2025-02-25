@@ -282,12 +282,17 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>UNT402H</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td rowspan="2">UNT402H</td>
+                <td>3798mv300</td>
+                <td rowspan="2">4.4.2</td>
+                <td rowspan="2">4.4.2</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td rowspan="2">2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>3798mv310</td>
+                <td>无线</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1316,4 +1321,4 @@
 
 
 
-最新提交的SHA值: eeba6837f67ac57567bbec5be41e29f74624607a
+最新提交的SHA值: edd4486cb468c27abb187a02f1c94eb1b4f2357e
