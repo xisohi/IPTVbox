@@ -69,12 +69,12 @@
             </tr>
             <tr>
                 <td>HG680-L</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>S905L</td>
+                <td>5.1</td>
+                <td>9.0</td>
+                <td>2.4G</td>
+                <td>1+8G</td>
+                <td>刷机解锁无线</td>
             </tr>
             <tr>
                 <td>HG680-LC</td>
@@ -105,11 +105,11 @@
             </tr>
             <tr>
                 <td>HG680-MC</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Hi3798MV310</td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
