@@ -34,12 +34,19 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680KA</td>
+                <td rowspan="2">HG680KA</td>
                 <td>GK6323</td>
-                <td></td>
-                <td></td>
+                <td>9.0</td>
+                <td rowspan="2">9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>Hi3798MV310</td>
+                <td>4.4.2</td>
+                <td>无线</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
