@@ -169,25 +169,33 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>E910V10C</td>
-                <td></td>
+                <td>Hi3798MV100</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E950</td>
-                <td>非高安版</td>
-                <td></td>
-                <td></td>
+                <td rowspan="2">E950</td>
+                <td>MSO9280MC</td>
+                <td>4.4</td>
+                <td>4.4</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>Hi3798MV100</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无线</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
          </tbody>
