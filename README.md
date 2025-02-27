@@ -62,12 +62,12 @@
             </tr>
             <tr>
                 <td>B860AV1.1-T2</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>ZX296716</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无</td>
+                <td>1+4G</td>
+                <td>部分版本支持WiFi功能</td>
             </tr>
             <tr>
                 <td>B860AV1.2</td>
@@ -265,20 +265,25 @@
             </tr>
             <tr>
                 <td>UNT401H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>Hi3798MV310</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
+                <td>刷机解锁WIFI</td>
+            </tr>
+            <tr>
+                <td rowspan="2">UNT402A</td>
+                <td rowspan="2">S905L3</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td rowspan="2">2.4G/5G</td>
+                <td rowspan="2">2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>UNT402A</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -292,8 +297,8 @@
             </tr>
             <tr>
                 <td>3798mv310</td>
-                <td>无线</td>
-                <td>备注</td>
+                <td>2.4G/5G</td>
+                <td>通过刷机解锁WIFI</td>
             </tr>
             <tr>
                 <td>UNT403A</td>
@@ -420,10 +425,10 @@
             <tr>
                 <td>E900V20D</td>
                 <td>GK6323</td>
-                <td></td>
-                <td></td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>无</td>
-                <td>配置</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -436,13 +441,21 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E900V21D</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td rowspan="2">E900V21D</td>
+                <td>S905L2</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
                 <td>无</td>
-                <td>配置</td>
+                <td>1+8G</td>
                 <td>备注</td>
+            </tr>
+            <tr>
+                <td>S905L3</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无</td>
+                <td>1+8G</td>
+                <td>部分版本支持2.4G</td>
             </tr>
             <tr>
                 <td>E900V21E</td>
@@ -508,25 +521,33 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>E910V10C</td>
-                <td></td>
+                <td>Hi3798MV100</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E950</td>
-                <td>非高安版</td>
-                <td></td>
-                <td></td>
+                <td rowspan="2">E950</td>
+                <td>MSO9280MC</td>
+                <td>4.4</td>
+                <td>4.4</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>Hi3798MV100</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无线</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
          </tbody>
@@ -683,9 +704,9 @@
                 <td>Hi3798MV200</td>
                 <td>5.1</td>
                 <td>5.1</td>
-                <td>无</td>
-                <td>1+4G</td>
                 <td>2.4G/5G</td>
+                <td>1+4G</td>
+                <td>备注</td>
             </tr>
             <tr>
                 <td>Q22</td>
@@ -878,22 +899,29 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>HG680KA</td>
+                <td rowspan="2">HG680KA</td>
                 <td>GK6323</td>
-                <td></td>
-                <td></td>
+                <td>9.0</td>
+                <td rowspan="2">9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>Hi3798MV310</td>
+                <td>4.4.2</td>
+                <td>无线</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>HG680KAS</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>HI3798MV310</td>
+                <td>4.4.2</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
+                <td>部分不支持无线</td>
             </tr>
             <tr>
                 <td>HG680KB</td>
@@ -906,12 +934,12 @@
             </tr>
             <tr>
                 <td>HG680-L</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>S905L</td>
+                <td>5.1</td>
+                <td>9.0</td>
+                <td>2.4G</td>
+                <td>1+8G</td>
+                <td>刷机解锁无线</td>
             </tr>
             <tr>
                 <td>HG680-LC</td>
@@ -942,11 +970,11 @@
             </tr>
             <tr>
                 <td>HG680-MC</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Hi3798MV310</td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1144,12 +1172,16 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>CM311-3</td>
+                <td rowspan="2">CM311-3</td>
                 <td>S905L3A</td>
-                <td>9.0</td>
-                <td>9.0</td>
-                <td>无</td>
-                <td>2+8G</td>
+                <td rowspan="2">9.0</td>
+                <td rowspan="2">9.0</td>
+                <td rowspan="2">无</td>
+                <td rowspan="2">2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>MSO9385</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1321,4 +1353,4 @@
 
 
 
-最新提交的SHA值: edd4486cb468c27abb187a02f1c94eb1b4f2357e
+最新提交的SHA值: c0b48b58b1f8d3c3ca1b4fda883eeffc9c61a909
