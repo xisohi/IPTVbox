@@ -62,12 +62,12 @@
             </tr>
             <tr>
                 <td>B860AV1.1-T2</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>ZX296716</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无</td>
+                <td>1+4G</td>
+                <td>部分版本支持WiFi功能</td>
             </tr>
             <tr>
                 <td>B860AV1.2</td>
