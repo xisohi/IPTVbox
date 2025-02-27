@@ -62,12 +62,12 @@
             </tr>
             <tr>
                 <td>UNT401H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>Hi3798MV310</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
+                <td>刷机解锁WIFI</td>
             </tr>
             <tr>
                 <td rowspan="2">UNT402A</td>
@@ -94,8 +94,8 @@
             </tr>
             <tr>
                 <td>3798mv310</td>
-                <td>无线</td>
-                <td>备注</td>
+                <td>2.4G/5G</td>
+                <td>通过刷机解锁WIFI</td>
             </tr>
             <tr>
                 <td>UNT403A</td>
