@@ -70,12 +70,17 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>UNT402A</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td rowspan="2">UNT402A</td>
+                <td rowspan="2">S905L3</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td rowspan="2">2.4G/5G</td>
+                <td rowspan="2">2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>备注</td>
             </tr>
             <tr>
