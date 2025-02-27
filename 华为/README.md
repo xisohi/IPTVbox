@@ -146,9 +146,9 @@
                 <td>Hi3798MV200</td>
                 <td>5.1</td>
                 <td>5.1</td>
-                <td>无</td>
-                <td>1+4G</td>
                 <td>2.4G/5G</td>
+                <td>1+4G</td>
+                <td>备注</td>
             </tr>
             <tr>
                 <td>Q22</td>
