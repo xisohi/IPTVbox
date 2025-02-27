@@ -97,13 +97,21 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E900V21D</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td rowspan="2">E900V21D</td>
+                <td>S905L2</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
                 <td>无</td>
-                <td>配置</td>
+                <td>1+8G</td>
                 <td>备注</td>
+            </tr>
+            <tr>
+                <td>S905L3</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无</td>
+                <td>1+8G</td>
+                <td>部分版本支持2.4G</td>
             </tr>
             <tr>
                 <td>E900V21E</td>
