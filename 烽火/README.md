@@ -51,12 +51,12 @@
             </tr>
             <tr>
                 <td>HG680KAS</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>HI3798MV310</td>
+                <td>4.4.2</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
+                <td>部分不支持无线</td>
             </tr>
             <tr>
                 <td>HG680KB</td>
