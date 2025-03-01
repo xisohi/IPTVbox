@@ -151,6 +151,15 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>B860AV5.2-M</td>
+                <td>S905L3SB</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>B862AV3.1-M2</td>
                 <td>MSO9385</td>
                 <td>9.0</td>
@@ -365,7 +374,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1353,4 +1362,4 @@
 
 
 
-最新提交的SHA值: c0b48b58b1f8d3c3ca1b4fda883eeffc9c61a909
+最新提交的SHA值: 99915239e58925fd3af7569cf995eba87a01c475
