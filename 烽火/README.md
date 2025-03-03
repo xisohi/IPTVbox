@@ -114,21 +114,21 @@
             </tr>
             <tr>
                 <td>HG680-MY</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>MSO9385</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>HG680-J</td>
+                <td>Hi3798MV100</td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>无</td>
+                <td>1+4G</td>
+                <td>刷机开启无线</td>
             </tr>
             <tr>
                 <td>HG680-V</td>
