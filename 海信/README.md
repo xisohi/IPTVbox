@@ -26,83 +26,89 @@
             </tr>
             <tr>
                 <td>IP103H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>部分刷机解锁wifi</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>IP105H</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>S905L3B</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
+                <td>1+4G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td rowspan="2">IP108H</td>
+                <td>S905l2-B</td>
+                <td rowspan="2">4.4.2</td>
+                <td rowspan="2">4.4.2</td>
                 <td>无线</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>IP108H</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>S905l3-B</td>
                 <td>无线</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>IP112H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>S905L3A</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>1+8G</td>
+                <td>部分地区支持WiFi</td>
             </tr>
             <tr>
                 <td>IP202H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>MSO9385</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>IP203H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>MSO9385</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>IP501H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>GK6323V100C</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>无</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>IP903H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>H3</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>IP906H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>Hi3798MV100</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
         </tbody>
