@@ -58,7 +58,7 @@
                 <td>4.4</td>
                 <td>2.4G</td>
                 <td>1+8G</td>
-                <td>备注</td>
+                <td>部分版本支持WiFi</td>
             </tr>
             <tr>
                 <td>UNT401H</td>
