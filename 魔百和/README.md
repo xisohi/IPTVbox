@@ -80,37 +80,37 @@
             </tr>
             <tr>
                 <td>CM211-1</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>S905L3</td>
+                <td>4.4.2</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>CM211-2</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td>hi3798mv300H</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>CM301</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>HI3798MV300</td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>CM311-1</td>
-                <td>S905L3</td>
-                <td></td>
-                <td></td>
-                <td>无</td>
+                <td>S905L3B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4G</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
