@@ -85,7 +85,7 @@
                 <td>9.0</td>
                 <td>2.4G/5G</td>
                 <td>2+8G</td>
-                <td>备注</td>
+                <td>通过刷机解锁WIFI</td>
             </tr>
             <tr>
                 <td>CM211-2</td>
