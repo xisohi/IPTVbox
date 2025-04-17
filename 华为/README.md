@@ -162,7 +162,7 @@
             <tr>
                 <td>EC6110M</td>
                 <td>Hi3798MV310</td>
-                <td></td>
+                <td>9</td>
                 <td>9.0</td>
                 <td>无线</td>
                 <td>1+8G</td>
@@ -171,7 +171,7 @@
             <tr>
                 <td>EC6110T</td>
                 <td>Hi3798MV310</td>
-                <td></td>
+                <td>9</td>
                 <td>9.0</td>
                 <td>无线</td>
                 <td>1+8G</td>
@@ -180,7 +180,7 @@
             <tr>
                 <td>EC6110U</td>
                 <td>Hi3798MV310</td>
-                <td></td>
+                <td>9</td>
                 <td>9.0</td>
                 <td>无线</td>
                 <td>1+8G</td>
