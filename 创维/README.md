@@ -53,11 +53,11 @@
             </tr>
             <tr>
                 <td>E900</td>
-                <td>高安版</td>
-                <td></td>
+                <td>HI3798MV100</td>
+                <td>4.4</td>
                 <td></td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -70,12 +70,28 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E900V20C</td>
-                <td></td>
-                <td></td>
+                <td rowspan="2">E900V20C</td>
+                <td>GK6323V100C</td>
                 <td>9.0</td>
-                <td></td>
-                <td>配置</td>
+                <td>9.0</td>
+                <td>2.4/5G</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>S905L2</td>
+                <td>4.4.2</td>
+                <td>9.0</td>
+                <td>2.4/5G</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HI3798MV200</td>
+                <td>4.4</td>
+                <td>9.0</td>
+                <td>2.4/5G</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -174,17 +190,33 @@
             <tr>
                 <td>E910E</td>
                 <td>非高安版</td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>2.4G</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E910V10C</td>
+                <td rowspan="3">E910V10C</td>
                 <td>Hi3798MV100</td>
-                <td></td>
-                <td></td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无线</td>
+                <td>1+4G</td>
+                <td>电信版</td>
+            </tr>
+            <tr>
+                <td>S905L2</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无线</td>
+                <td>1+4G</td>
+                <td>移动版</td>
+            </tr>
+            <tr>
+                <td>S905L3</td>
+                <td>4.4</td>
+                <td>4.4</td>
                 <td>无线</td>
                 <td>1+4G</td>
                 <td>备注</td>
