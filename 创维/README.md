@@ -130,12 +130,37 @@
                 <td>部分版本支持2.4G</td>
             </tr>
             <tr>
-                <td>E900V21E</td>
-                <td>S905L3-B</td>
-                <td></td>
-                <td></td>
+                <td rowspan="3">E900V21E</td>
+                <td>S905L2</td>
+                <td>4.4</td>
+                <td>9.0</td>
                 <td>无</td>  
-                <td>1+8</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>S905L3-B</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>无</td>  
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HI3798mv310</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>无</td>  
+                <td>1+8G</td>
+                <td>电信</td>
+            </tr>
+            <tr>
+                <td>E900V21F</td>
+                <td>S905L3SB</td>
+                <td>9</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -167,10 +192,10 @@
             <tr>
                 <td rowspan="2">E900V22E</td>
                 <td rowspan="2">905L3B</td>
-                <td rowspan="2"></td>
+                <td rowspan="2">4.4</td>
                 <td rowspan="2">9.0</td>
                 <td>2.4G/5G</td>
-                <td>2+8</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -181,10 +206,10 @@
             <tr>
                 <td>E900V22F</td>
                 <td>S905L3SB</td>
-                <td></td>
+                <td>9</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
-                <td>2+8</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>

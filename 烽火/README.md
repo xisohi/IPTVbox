@@ -17,20 +17,20 @@
         <tbody>
             <tr>
                 <td>HG680-GC</td>
-                <td>单</td>
+                <td>GK6323V100C</td>
                 <td>4.4.2</td>
-                <td>4.4.2</td>
+                <td>9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>HG680-GY</td>
-                <td>单</td>
+                <td>GK6323V100C</td>
                 <td>4.4.2</td>
-                <td>4.4.2</td>
+                <td>9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>

@@ -53,20 +53,20 @@
             </tr>
             <tr>
                 <td>EC6108V9E</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>RK3228</td>
+                <td>4.4.4</td>
+                <td>4.4.4</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>EC6108V9I</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>RK3228</td>
+                <td>4.4.4</td>
+                <td>4.4.4</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
