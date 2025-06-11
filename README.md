@@ -1347,12 +1347,18 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>M302H</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td rowspan="2">M302H</td>
+                <td>S905L3</td>
+                <td>4.2</td>
+                <td>4.2</td>
+                <td rowspan="2">无</td>
+                <td rowspan="2">1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>hi3798MV300H</td>
+                <td>4.4</td>
+                <td>4.4</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1434,4 +1440,4 @@
 
 
 
-最新提交的SHA值: 7785c6cdd00db94813e8aa603e4a71f890a90f51
+最新提交的SHA值: 09901e6ccee3b05e77e9879c02cabd00524c436e
