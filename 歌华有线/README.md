@@ -25,14 +25,29 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>IP1002</td>
-                <td>HI3798mv100</td>
+                <td rowspan="3">E900V20C</td>
+                <td rowspan="2">HI3798CV200</td>
                 <td></td>
                 <td></td>
-                <td>无线</td>
-                <td>1+8G</td>
+                <td></td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>HI3798MV100</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>            
             <tr>
                 <td>IP1003</td>
                 <td></td>
@@ -67,23 +82,6 @@
                 <td>4.4.2</td>
                 <td>2.4G/5G</td>
                 <td>1+8</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td rowspan="2">E900V20C</td>
-                <td>GK6323V100C</td>
-                <td>9.0</td>
-                <td>9.0</td>
-                <td>2.4/5G</td>
-                <td>1+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>S905L2</td>
-                <td>4.4.2</td>
-                <td>9.0</td>
-                <td>2.4/5G</td>
-                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
