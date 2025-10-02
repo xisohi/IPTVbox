@@ -152,7 +152,7 @@
             </tr>
             <tr>
                 <td>Q22</td>
-                <td>Hi3798C</td>
+                <td>Hi3798CV200</td>
                 <td>5.1</td>
                 <td>5.1</td>
                 <td>无</td>
