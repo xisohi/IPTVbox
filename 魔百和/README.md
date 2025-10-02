@@ -200,18 +200,24 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>M301A</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
+                <td rowspan="2">M301A</td>
+                <td>S905L2</td>
+                <td>4.2</td>
+                <td>4.2</td>
+                <td rowspan="2">无</td>
+                <td rowspan="2"></td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>S905L3</td>
+                <td>4.4</td>
+                <td>4.4</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>M301H</td>
-                <td></td>
-                <td></td>
+                <td>Hi3798Mv310</td>
+                <td>4.4.2</td>
                 <td></td>
                 <td>无线</td>
                 <td>1+8G</td>
@@ -219,11 +225,11 @@
             </tr>
             <tr>
                 <td>M302A</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>S905L3-B</td>
+                <td>4.4.2</td>
+                <td>9.0</td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
