@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>创维机顶盒信息</h1>
+    <h1>歌华机顶盒信息</h1>
     <table>
         <thead>
             <tr>
@@ -16,8 +16,8 @@
         </thead>
         <tbody>
             <tr>
-                <td>A1/A1C/A1Plus/A11/A11Plus</td>
-                <td></td>
+                <td>IP1001</td>
+                <td>HI3798CV200</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
@@ -25,7 +25,16 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>A3/A5/A7/A8/A9</td>
+                <td>IP1002</td>
+                <td>HI3798mv100</td>
+                <td></td>
+                <td></td>
+                <td>无线</td>
+                <td>1+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>IP1003</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -34,16 +43,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>A810/A818/A818c/A818S</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>E820</td>
+                <td>IP1004</td>
                 <td>Amlogic 8726-MX</td>
                 <td>4.2</td>
                 <td>4.2</td>
@@ -52,7 +52,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>E900</td>
+                <td>IP1005</td>
                 <td>HI3798MV100</td>
                 <td>4.4</td>
                 <td></td>
