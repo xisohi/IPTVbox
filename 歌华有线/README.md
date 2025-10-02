@@ -25,7 +25,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td rowspan="3">E900V20C</td>
+                <td rowspan="3">IP1002</td>
                 <td rowspan="2">HI3798CV200</td>
                 <td></td>
                 <td></td>
@@ -54,211 +54,34 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>1+2G</td>
+                <td>浪潮可以扔了</td>
             </tr>
             <tr>
                 <td>IP1004</td>
-                <td>Amlogic 8726-MX</td>
-                <td>4.2</td>
-                <td>4.2</td>
+                <td>HI3798CV200</td>
+                <td></td>
+                <td></td>
                 <td>无</td>
-                <td>1-4G</td>
+                <td>1+4G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>IP1005</td>
-                <td>HI3798MV100</td>
-                <td>4.4</td>
+                <td>HI3716</td>
+                <td></td>
                 <td></td>
                 <td>无线</td>
-                <td>1+4G</td>
-                <td>备注</td>
+                <td>1+2G</td>
+                <td>创维可扔了</td>
             </tr>
             <tr>
-                <td>E900-S</td>
-                <td>HI3798MV100</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>2.4G/5G</td>
-                <td>1+8</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>HI3798MV200</td>
-                <td>4.4</td>
-                <td>9.0</td>
-                <td>2.4/5G</td>
-                <td>1+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>E900V20D</td>
-                <td>GK6323</td>
-                <td>9.0</td>
-                <td>9.0</td>
-                <td>无</td>
-                <td>2+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>E900V21C</td>
+                <td>IP1006</td>
+                <td>HI3798CV200</td>
                 <td></td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td>配置</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td rowspan="2">E900V21D</td>
-                <td>S905L2</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无</td>
-                <td>1+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>S905L3</td>
-                <td>4.4</td>
-                <td>4.4</td>
-                <td>无</td>
-                <td>1+8G</td>
-                <td>部分版本支持2.4G</td>
-            </tr>
-            <tr>
-                <td rowspan="3">E900V21E</td>
-                <td>S905L2</td>
-                <td>4.4</td>
-                <td>9.0</td>
-                <td>无</td>  
-                <td>1+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>S905L3-B</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无</td>  
-                <td>1+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>HI3798mv310</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
-                <td>无</td>  
-                <td>1+8G</td>
-                <td>电信</td>
-            </tr>
-            <tr>
-                <td>E900V21F</td>
-                <td>S905L3SB</td>
-                <td>9</td>
-                <td>9.0</td>
-                <td>2.4G/5G</td>
-                <td>2+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td rowspan="2">E900V22C</td>
-                <td>905L3A</td>
-                <td>9.0</td>
-                <td>9.0</td>
-                <td>2.4G/5G</td>
                 <td>2+8</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>905L3A-B</td>
-                <td>9.0</td>
-                <td>9.0</td>
-                <td>2.4G/5G</td>
-                <td>2+8</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>E900V22D</td>
-                <td>905L3A-B</td>
-                <td>9.0</td>
-                <td>9.0</td>
-                <td>无</td>
-                <td>2+8</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td rowspan="2">E900V22E</td>
-                <td rowspan="2">905L3B</td>
-                <td rowspan="2">4.4</td>
-                <td rowspan="2">9.0</td>
-                <td>2.4G/5G</td>
-                <td>2+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>无</td>
-                <td>2+8</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>E900V22F</td>
-                <td>S905L3SB</td>
-                <td>9</td>
-                <td>9.0</td>
-                <td>2.4G/5G</td>
-                <td>2+8G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>E910E</td>
-                <td>非高安版</td>
-                <td>4.4</td>
-                <td>4.4</td>
-                <td>2.4G</td>
-                <td>1+4G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td rowspan="3">E910V10C</td>
-                <td>Hi3798MV100</td>
-                <td>4.4</td>
-                <td>4.4</td>
-                <td>无线</td>
-                <td>1+4G</td>
-                <td>电信版</td>
-            </tr>
-            <tr>
-                <td>S905L2</td>
-                <td>4.4</td>
-                <td>4.4</td>
-                <td>无线</td>
-                <td>1+4G</td>
-                <td>移动版</td>
-            </tr>
-            <tr>
-                <td>S905L3</td>
-                <td>4.4</td>
-                <td>4.4</td>
-                <td>无线</td>
-                <td>1+4G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td rowspan="2">E950</td>
-                <td>MSO9280MC</td>
-                <td>4.4</td>
-                <td>4.4</td>
-                <td>无线</td>
-                <td>1+4G</td>
-                <td>备注</td>
-            </tr>
-            <tr>
-                <td>Hi3798MV100</td>
-                <td>4.4</td>
-                <td>4.4</td>
-                <td>无线</td>
-                <td>1+4G</td>
                 <td>备注</td>
             </tr>
          </tbody>
