@@ -62,11 +62,11 @@
             </tr>
             <tr>
                 <td>CM201-2</td>
-                <td></td>
+                <td>3798MV300</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
-                <td>配置</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
