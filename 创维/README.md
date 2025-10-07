@@ -21,6 +21,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -30,6 +31,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -39,6 +41,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -48,6 +51,7 @@
                 <td>4.2</td>
                 <td>4.2</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1-4G</td>
                 <td>备注</td>
             </tr>
@@ -57,6 +61,7 @@
                 <td>4.4</td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -66,6 +71,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>1+8</td>
                 <td>备注</td>
             </tr>
@@ -75,6 +81,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -83,6 +90,7 @@
                 <td>4.4.2</td>
                 <td>9.0</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -91,6 +99,7 @@
                 <td>4.4</td>
                 <td>9.0</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -100,6 +109,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -109,6 +119,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -118,6 +129,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -126,6 +138,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>部分版本支持2.4G</td>
             </tr>
@@ -135,6 +148,7 @@
                 <td>4.4</td>
                 <td>9.0</td>
                 <td>无</td>  
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -143,6 +157,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>  
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -151,6 +166,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>  
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>电信</td>
             </tr>
@@ -160,6 +176,7 @@
                 <td>9</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -169,6 +186,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8</td>
                 <td>备注</td>
             </tr>
@@ -177,6 +195,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8</td>
                 <td>备注</td>
             </tr>
@@ -186,6 +205,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8</td>
                 <td>备注</td>
             </tr>
@@ -195,11 +215,13 @@
                 <td rowspan="2">4.4</td>
                 <td rowspan="2">9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8</td>
                 <td>备注</td>
             </tr>
@@ -209,6 +231,7 @@
                 <td>9</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -218,6 +241,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -227,6 +251,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>电信版</td>
             </tr>
@@ -235,6 +260,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>移动版</td>
             </tr>
@@ -243,6 +269,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -252,6 +279,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -260,6 +288,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
