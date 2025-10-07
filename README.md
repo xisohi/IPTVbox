@@ -10,6 +10,7 @@
                 <th>原系统</th>
                 <th>刷机系统</th>
                 <th>无线</th>
+                <th>网口速率</th>
                 <th>配置</th>
                 <th>备注</th>
             </tr>
@@ -21,6 +22,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -30,6 +32,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -39,6 +42,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -48,6 +52,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -57,6 +62,7 @@
                 <td>6.0</td>
                 <td>6.0</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -66,6 +72,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>部分版本支持WiFi功能</td>
             </tr>
@@ -75,6 +82,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -84,6 +92,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -93,6 +102,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -102,6 +112,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -111,6 +122,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -120,6 +132,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -129,6 +142,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -138,6 +152,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -147,6 +162,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -156,6 +172,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -165,6 +182,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -174,6 +192,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -183,6 +202,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -192,6 +212,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -201,6 +222,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -222,6 +244,7 @@
                 <th>原系统</th>
                 <th>刷机系统</th>
                 <th>无线</th>
+                <th>网口速率</th>
                 <th>配置</th>
                 <th>备注</th>
             </tr>
@@ -233,6 +256,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -242,6 +266,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -251,6 +276,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -260,6 +286,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -269,6 +296,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>部分版本支持WiFi</td>
             </tr>
@@ -278,6 +306,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>刷机解锁WIFI</td>
             </tr>
@@ -287,12 +316,14 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td rowspan="2">2.4G/5G</td>
+                <td>100M</td>
                 <td rowspan="2">2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>9.0</td>
                 <td>9.0</td>
+                <td>100M</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -301,12 +332,14 @@
                 <td rowspan="2">4.4.2</td>
                 <td rowspan="2">4.4.2</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td rowspan="2">2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>3798mv310</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>通过刷机解锁WIFI</td>
             </tr>
             <tr>
@@ -315,6 +348,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -324,6 +358,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -333,6 +368,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -342,6 +378,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -363,6 +400,7 @@
                 <th>原系统</th>
                 <th>刷机系统</th>
                 <th>无线</th>
+                <th>网口速率</th>
                 <th>配置</th>
                 <th>备注</th>
             </tr>
@@ -374,6 +412,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -383,6 +422,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -392,6 +432,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -401,6 +442,7 @@
                 <td>4.2</td>
                 <td>4.2</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1-4G</td>
                 <td>备注</td>
             </tr>
@@ -410,6 +452,7 @@
                 <td>4.4</td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -419,6 +462,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>1+8</td>
                 <td>备注</td>
             </tr>
@@ -428,6 +472,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -436,6 +481,7 @@
                 <td>4.4.2</td>
                 <td>9.0</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -444,6 +490,7 @@
                 <td>4.4</td>
                 <td>9.0</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -453,6 +500,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -462,6 +510,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -471,6 +520,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -479,6 +529,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>部分版本支持2.4G</td>
             </tr>
@@ -488,6 +539,7 @@
                 <td>4.4</td>
                 <td>9.0</td>
                 <td>无</td>  
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -496,6 +548,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>  
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -504,6 +557,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>  
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>电信</td>
             </tr>
@@ -513,6 +567,7 @@
                 <td>9</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -522,6 +577,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8</td>
                 <td>备注</td>
             </tr>
@@ -530,6 +586,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8</td>
                 <td>备注</td>
             </tr>
@@ -539,6 +596,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8</td>
                 <td>备注</td>
             </tr>
@@ -548,11 +606,13 @@
                 <td rowspan="2">4.4</td>
                 <td rowspan="2">9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8</td>
                 <td>备注</td>
             </tr>
@@ -562,6 +622,7 @@
                 <td>9</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -571,6 +632,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -580,6 +642,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>电信版</td>
             </tr>
@@ -588,6 +651,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>移动版</td>
             </tr>
@@ -596,6 +660,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -605,6 +670,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -613,6 +679,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -645,6 +712,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -654,7 +722,8 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G</td>
-                <td>1+8</td>
+                <td>100M</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -663,6 +732,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -672,7 +742,8 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G</td>
-                <td>1+8</td>
+                <td>100M</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -681,6 +752,7 @@
                 <td>4.4.4</td>
                 <td>4.4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -690,6 +762,7 @@
                 <td>4.4.4</td>
                 <td>4.4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -699,7 +772,8 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G</td>
-                <td>1+8</td>
+                <td>100M</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -708,7 +782,8 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G</td>
-                <td>1+8</td>
+                <td>100M</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -717,7 +792,8 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G</td>
-                <td>1+8</td>
+                <td>100M</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -726,7 +802,8 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G/5G</td>
-                <td>1+8</td>
+                <td>100M</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -735,6 +812,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -744,7 +822,8 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4G/5G</td>
-                <td>1+8</td>
+                <td>100M</td>
+                <td>1+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -753,6 +832,7 @@
                 <td>4.4.2/9.0</td>
                 <td>4.4.2/9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -762,6 +842,7 @@
                 <td>4.4/9.0</td>
                 <td>4.4/9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -771,6 +852,7 @@
                 <td>5.1</td>
                 <td>5.1</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -780,6 +862,7 @@
                 <td>5.1</td>
                 <td>5.1</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -789,6 +872,7 @@
                 <td>9</td>
                 <td>9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -798,6 +882,7 @@
                 <td>9</td>
                 <td>9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -807,6 +892,7 @@
                 <td>9</td>
                 <td>9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -828,6 +914,7 @@
                 <th>原系统</th>
                 <th>刷机系统</th>
                 <th>无线</th>
+                <th>网口速率</th>
                 <th>配置</th>
                 <th>备注</th>
             </tr>
@@ -839,6 +926,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -848,6 +936,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>部分刷机解锁wifi</td>
             </tr>
@@ -857,6 +946,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -866,12 +956,14 @@
                 <td rowspan="2">4.4.2</td>
                 <td rowspan="2">4.4.2</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>S905l3-B</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -881,6 +973,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>部分地区支持WiFi</td>
             </tr>
@@ -890,6 +983,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -899,6 +993,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -908,6 +1003,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -917,6 +1013,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -926,6 +1023,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -947,6 +1045,7 @@
                 <th>原系统</th>
                 <th>刷机系统</th>
                 <th>无线</th>
+                <th>网口速率</th>
                 <th>配置</th>
                 <th>备注</th>
             </tr>
@@ -958,6 +1057,7 @@
                 <td>4.4.2</td>
                 <td>9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -967,6 +1067,7 @@
                 <td>4.4.2</td>
                 <td>9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -976,6 +1077,7 @@
                 <td>9.0</td>
                 <td rowspan="2">9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -983,6 +1085,7 @@
                 <td>Hi3798MV310</td>
                 <td>4.4.2</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -992,6 +1095,7 @@
                 <td>4.4.2</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>部分不支持无线</td>
             </tr>
@@ -1001,6 +1105,7 @@
                 <td>4.4.2</td>
                 <td>9.0</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1010,6 +1115,7 @@
                 <td>5.1</td>
                 <td>9.0</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>刷机解锁无线</td>
             </tr>
@@ -1019,6 +1125,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1028,6 +1135,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1037,6 +1145,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1046,6 +1155,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1055,6 +1165,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1064,6 +1175,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>刷机开启无线</td>
             </tr>
@@ -1073,6 +1185,7 @@
                 <td>4.4.4</td>
                 <td>4.4.4</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1082,6 +1195,7 @@
                 <td>4.2.2</td>
                 <td>4.2.2</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -1091,6 +1205,7 @@
                 <td>4.2.2</td>
                 <td>4.2.2</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -1100,6 +1215,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -1109,6 +1225,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -1130,6 +1247,7 @@
                 <th>原系统</th>
                 <th>刷机系统</th>
                 <th>无线</th>
+                <th>网口速率</th>
                 <th>配置</th>
                 <th>备注</th>
             </tr>
@@ -1141,6 +1259,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1150,6 +1269,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1159,6 +1279,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1168,6 +1289,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1177,6 +1299,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1186,6 +1309,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -1195,6 +1319,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1204,6 +1329,7 @@
                 <td>4.4.2</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>通过刷机解锁WIFI</td>
             </tr>
@@ -1213,6 +1339,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G/5G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1222,6 +1349,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1231,6 +1359,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1240,6 +1369,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+16G</td>
                 <td>备注</td>
             </tr>
@@ -1249,6 +1379,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1258,11 +1389,13 @@
                 <td rowspan="2">9.0</td>
                 <td rowspan="2">9.0</td>
                 <td rowspan="2">无</td>
+                <td>100M</td>
                 <td rowspan="2">2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>MSO9385</td>
+                <td>100M</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1271,6 +1404,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1280,6 +1414,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1289,6 +1424,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1298,6 +1434,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1307,6 +1444,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1316,6 +1454,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -1325,6 +1464,7 @@
                 <td>4.2</td>
                 <td>4.2</td>
                 <td rowspan="2">无</td>
+                <td>100M</td>
                 <td rowspan="2"></td>
                 <td>备注</td>
             </tr>
@@ -1332,6 +1472,7 @@
                 <td>S905L3</td>
                 <td>4.4</td>
                 <td>4.4</td>
+                <td>100M</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1340,6 +1481,7 @@
                 <td>4.4.2</td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -1349,6 +1491,7 @@
                 <td>4.4.2</td>
                 <td>9.0</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1358,6 +1501,7 @@
                 <td>4.2</td>
                 <td>4.2</td>
                 <td rowspan="2">无</td>
+                <td>100M</td>
                 <td rowspan="2">1+8G</td>
                 <td>备注</td>
             </tr>
@@ -1365,6 +1509,7 @@
                 <td>hi3798MV300H</td>
                 <td>4.4</td>
                 <td>4.4</td>
+                <td>100M</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1373,6 +1518,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>2+16G</td>
                 <td>备注</td>
             </tr>
@@ -1382,6 +1528,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+16G</td>
                 <td>备注</td>
             </tr>
@@ -1391,6 +1538,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1400,6 +1548,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1409,6 +1558,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -1418,6 +1568,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1427,6 +1578,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1436,6 +1588,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1457,6 +1610,7 @@
                 <th>原系统</th>
                 <th>刷机系统</th>
                 <th>无线</th>
+                <th>网口速率</th>
                 <th>配置</th>
                 <th>备注</th>
             </tr>
@@ -1468,6 +1622,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -1477,6 +1632,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -1484,6 +1640,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -1492,6 +1649,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>            
@@ -1501,6 +1659,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+2G</td>
                 <td>浪潮可以扔了</td>
             </tr>
@@ -1510,6 +1669,7 @@
                 <td></td>
                 <td></td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -1519,6 +1679,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+2G</td>
                 <td>创维可扔了</td>
             </tr>
@@ -1528,7 +1689,8 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td>2+8</td>
+                <td>100M</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
          </tbody>
@@ -1538,4 +1700,4 @@
 
 
 
-最新提交的SHA值: 82759ea839f8485731d98c4f04d128dfa5c62fac
+最新提交的SHA值: e0731a307980cbf71dd8176f28626624c1495590
