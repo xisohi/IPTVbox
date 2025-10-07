@@ -264,6 +264,7 @@
                 <td>4.2</td>
                 <td>4.2</td>
                 <td rowspan="2">无</td>
+                <td>100M</td>
                 <td rowspan="2">1+8G</td>
                 <td>备注</td>
             </tr>
@@ -271,6 +272,7 @@
                 <td>hi3798MV300H</td>
                 <td>4.4</td>
                 <td>4.4</td>
+                <td>100M</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -279,6 +281,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>2.4/5G</td>
+                <td>100M</td>
                 <td>2+16G</td>
                 <td>备注</td>
             </tr>
@@ -288,6 +291,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+16G</td>
                 <td>备注</td>
             </tr>
