@@ -10,6 +10,7 @@
                 <th>原系统</th>
                 <th>刷机系统</th>
                 <th>无线</th>
+                <th>网口速率</th>
                 <th>配置</th>
                 <th>备注</th>
             </tr>
@@ -21,6 +22,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -30,6 +32,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -37,6 +40,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
@@ -45,6 +49,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>            
@@ -54,6 +59,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+2G</td>
                 <td>浪潮可以扔了</td>
             </tr>
@@ -63,6 +69,7 @@
                 <td></td>
                 <td></td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -72,6 +79,7 @@
                 <td></td>
                 <td></td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>1+2G</td>
                 <td>创维可扔了</td>
             </tr>
@@ -81,7 +89,8 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td>2+8</td>
+                <td>100M</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
          </tbody>
