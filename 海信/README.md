@@ -22,6 +22,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -31,6 +32,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>2+8G</td>
                 <td>部分刷机解锁wifi</td>
             </tr>
@@ -40,6 +42,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>2.4G</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -49,12 +52,14 @@
                 <td rowspan="2">4.4.2</td>
                 <td rowspan="2">4.4.2</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>S905l3-B</td>
                 <td>无线</td>
+                <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
             </tr>
@@ -64,6 +69,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>部分地区支持WiFi</td>
             </tr>
@@ -73,6 +79,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -82,6 +89,7 @@
                 <td>9.0</td>
                 <td>9.0</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -91,6 +99,7 @@
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
             </tr>
@@ -100,6 +109,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
@@ -109,6 +119,7 @@
                 <td>4.4</td>
                 <td>4.4</td>
                 <td>无</td>
+                <td>100M</td>
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
