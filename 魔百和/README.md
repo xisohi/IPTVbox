@@ -57,14 +57,23 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>CM201-1</td>
-                <td></td>
+                <td rowspan="2">CM201-1</td>
+                <td>S905L2</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
                 <td>100M</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>1+4/8G</td>
+                <td>创维（CW)</td>
+            </tr>
+            <tr>
+                <td>S905L3</td>
+                <td>4.4</td>
+                <td>9.0</td>
+                <td>支持</td>
+                <td>100M</td>
+                <td>1+4/8G</td>
+                <td>CH/YS/ZG</td>
             </tr>
             <tr>
                 <td>CM201-2</td>
