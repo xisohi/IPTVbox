@@ -211,19 +211,26 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td rowspan="2">E900V22E</td>
+                <td rowspan="4">E900V22E</td>
                 <td rowspan="2">905L3B</td>
-                <td rowspan="2">4.4</td>
-                <td rowspan="2">9.0</td>
+                <td rowspan="4">4.4</td>
+                <td rowspan="4">9.0</td>
                 <td>2.4G/5G</td>
-                <td>100M</td>
-                <td>2+8G</td>
+                <td rowspan="4">100M</td>
+                <td rowspan="4">2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td rowspan="2">905L2B</td>
+                <td>无</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>2.4G/5G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>无</td>
-                <td>100M</td>
-                <td>2+8</td>
                 <td>备注</td>
             </tr>
             <tr>
