@@ -601,19 +601,26 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td rowspan="2">E900V22E</td>
-                <td rowspan="2">905L3B</td>
-                <td rowspan="2">4.4</td>
-                <td rowspan="2">9.0</td>
+                <td rowspan="4">E900V22E</td>
+                <td rowspan="2">905L2B</td>
+                <td rowspan="4">4.4</td>
+                <td rowspan="4">9.0</td>
                 <td>2.4G/5G</td>
-                <td>100M</td>
-                <td>2+8G</td>
+                <td rowspan="4">100M</td>
+                <td rowspan="4">2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
                 <td>无</td>
-                <td>100M</td>
-                <td>2+8</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td rowspan="2">905L3B</td>
+                <td>2.4G/5G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>无</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1294,14 +1301,23 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>CM201-1</td>
-                <td></td>
+                <td rowspan="2">CM201-1</td>
+                <td>S905L2</td>
                 <td></td>
                 <td></td>
                 <td>无线</td>
                 <td>100M</td>
-                <td>配置</td>
-                <td>备注</td>
+                <td>1+4/8G</td>
+                <td>创维（CW)</td>
+            </tr>
+            <tr>
+                <td>S905L3</td>
+                <td>4.4</td>
+                <td>9.0</td>
+                <td>支持</td>
+                <td>100M</td>
+                <td>1+4/8G</td>
+                <td>CH/YS/ZG</td>
             </tr>
             <tr>
                 <td>CM201-2</td>
@@ -1700,4 +1716,4 @@
 
 
 
-最新提交的SHA值: e0731a307980cbf71dd8176f28626624c1495590
+最新提交的SHA值: ee55f969d4a0e310fd646300370ee3e167536df2
