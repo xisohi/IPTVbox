@@ -116,10 +116,10 @@
             </tr>
             <tr>
                 <td>E900V21C</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>HI3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
                 <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
