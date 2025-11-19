@@ -506,10 +506,10 @@
             </tr>
             <tr>
                 <td>E900V21C</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>HI3798MV100</td>
+                <td>4.4.2</td>
+                <td>4.4.2</td>
+                <td>2.4G</td>
                 <td>100M</td>
                 <td>配置</td>
                 <td>备注</td>
@@ -1716,4 +1716,4 @@
 
 
 
-最新提交的SHA值: ee55f969d4a0e310fd646300370ee3e167536df2
+最新提交的SHA值: bbd0cf01720af9d5ec65d0187623b494e59a8693
