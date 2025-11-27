@@ -94,14 +94,22 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td>IP501H</td>
-                <td>GK6323V100C</td>
+                <td rowspan="2">IP501H</td>
+                <td rowspan="2">GK6323V100C</td>
                 <td>4.4.2</td>
                 <td>4.4.2</td>
                 <td>无</td>
                 <td>100M</td>
                 <td>1+8G</td>
                 <td>备注</td>
+            </tr>
+            <tr>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>安徽移动刷GK6323万能包</td>
             </tr>
             <tr>
                 <td>IP903H</td>
