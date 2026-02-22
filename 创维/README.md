@@ -77,7 +77,7 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td rowspan="2">E900V20C</td>
+                <td rowspan="3">E900V20C</td>
                 <td>GK6323V100C</td>
                 <td>9.0</td>
                 <td>9.0</td>
