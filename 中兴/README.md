@@ -167,6 +167,32 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>B860AV5.1-U</td>
+                <td>S905L3SB</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td rowspan="2">B860AV5.2-U</td>
+                <td rowspan="2">S905L3SB</td>
+                <td>9.0</td>
+                <td rowspan="2">9.0</td>
+                <td>无</td>
+                <td>100M</td>
+                <td rowspan="2">2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>4.4</td>
+                <td>无</td>
+                <td>100M</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>B860AV5.2-M</td>
                 <td>S905L3SB</td>
                 <td>9.0</td>
