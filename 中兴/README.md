@@ -171,7 +171,7 @@
                 <td>S905L3SB</td>
                 <td>9.0</td>
                 <td>9.0</td>
-                <td>无</td>
+                <td>2.4/5G</td>
                 <td>100M</td>
                 <td>2+8G</td>
                 <td>备注</td>
