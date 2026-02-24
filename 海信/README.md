@@ -18,12 +18,12 @@
         <tbody>
              <tr>
                 <td>IP102H</td>
-                <td>单</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
+                <td>S905L3B</td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>无线</td>
                 <td>100M</td>
-                <td>配置</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
