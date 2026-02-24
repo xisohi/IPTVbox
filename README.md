@@ -955,12 +955,12 @@
         <tbody>
              <tr>
                 <td>IP102H</td>
-                <td>单</td>
-                <td>4.4.2</td>
-                <td>4.4.2</td>
+                <td>S905L3B</td>
+                <td>9.0</td>
+                <td>9.0</td>
                 <td>无线</td>
                 <td>100M</td>
-                <td>配置</td>
+                <td>2+8G</td>
                 <td>备注</td>
             </tr>
             <tr>
@@ -1750,4 +1750,4 @@
 
 
 
-最新提交的SHA值: f14dc4e4cd7cbc734701b7758246662f949e509c
+最新提交的SHA值: 23bbccbbadb618b7f41a94bde607c897f2eef5f5
