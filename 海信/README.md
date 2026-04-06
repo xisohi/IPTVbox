@@ -47,10 +47,10 @@
                 <td>备注</td>
             </tr>
             <tr>
-                <td rowspan="2">IP108H</td>
+                <td rowspan="3">IP108H</td>
                 <td>S905l2-B</td>
-                <td rowspan="2">4.4.2</td>
-                <td rowspan="2">4.4.2</td>
+                <td rowspan="3">4.4.2</td>
+                <td rowspan="3">4.4.2</td>
                 <td>无线</td>
                 <td>100M</td>
                 <td>配置</td>
@@ -58,6 +58,13 @@
             </tr>
             <tr>
                 <td>S905l3-B</td>
+                <td>无线</td>
+                <td>100M</td>
+                <td>配置</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>GK6323V100C</td>
                 <td>无线</td>
                 <td>100M</td>
                 <td>配置</td>
