@@ -112,6 +112,26 @@
                 <td>安徽移动刷GK6323万能包</td>
             </tr>
             <tr>
+                <td>IP810N</td>
+                <td>Hi3798MV320</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>100M</td>
+                <td>2+16G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>IP811N</td>
+                <td>Hi3798MV320</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>100M</td>
+                <td>2+16G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>IP903H</td>
                 <td>H3</td>
                 <td>4.4</td>
