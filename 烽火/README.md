@@ -94,6 +94,16 @@
                 <td>2+8G</td>
                 <td>备注</td>
             </tr>
+             <tr>
+                <td>HG680-LF</td>
+                <td>S905L3S(B)</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>部分支持无线</td>
+            </tr>
             <tr>
                 <td>HG680-LV</td>
                 <td>S905L3B</td>
