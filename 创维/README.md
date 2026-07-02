@@ -300,6 +300,25 @@
                 <td>1+4G</td>
                 <td>备注</td>
             </tr>
+            <tr>
+                <td rowspan="2">Q0105</td>
+                <td>全志H2</td>
+                <td>4.4</td>
+                <td>4.4</td>
+                <td>无线</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>Hi</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无线</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
          </tbody>
     </table>
 </body>
