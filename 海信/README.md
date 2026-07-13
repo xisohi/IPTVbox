@@ -77,7 +77,7 @@
                 <td>9.0</td>
                 <td>无</td>
                 <td>100M</td>
-                <td>1+8G</td>
+                <td>2+8G</td>
                 <td>部分地区支持WiFi</td>
             </tr>
             <tr>
