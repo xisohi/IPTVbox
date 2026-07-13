@@ -1063,7 +1063,7 @@
                 <td>9.0</td>
                 <td>无</td>
                 <td>100M</td>
-                <td>1+8G</td>
+                <td>2+8G</td>
                 <td>部分地区支持WiFi</td>
             </tr>
             <tr>
@@ -1836,4 +1836,4 @@
 
 
 
-最新提交的SHA值: 58855ffb936acef3f43708963c8bfb58b50af757
+最新提交的SHA值: null
