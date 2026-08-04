@@ -244,6 +244,16 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>E900V24C</td>
+                <td>S905L3Y-B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4G</td>
+                <td>100M</td>
+                <td>2+32G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>E910E</td>
                 <td>非高安版</td>
                 <td>4.4</td>
