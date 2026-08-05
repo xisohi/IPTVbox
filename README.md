@@ -680,6 +680,26 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>E900V23C</td>
+                <td>MV320</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4G/5G</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
+                <td>E900V24C</td>
+                <td>S905L3Y-B</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4G</td>
+                <td>100M</td>
+                <td>2+32G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>E910E</td>
                 <td>非高安版</td>
                 <td>4.4</td>
@@ -1836,4 +1856,4 @@
 
 
 
-最新提交的SHA值: dde9807653c17fbead0a36e61118a47187f3a18f
+最新提交的SHA值: c9a0fbce0ccc513f6d7376469f79f0b61777124f
