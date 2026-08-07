@@ -399,6 +399,16 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>UNT405H</td>
+                <td>Hi3798MV320</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>无</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>UNT411A</td>
                 <td>S905L3A</td>
                 <td>9.0</td>
@@ -1856,4 +1866,4 @@
 
 
 
-最新提交的SHA值: c9a0fbce0ccc513f6d7376469f79f0b61777124f
+最新提交的SHA值: 41f82bf603128e7d6e8628adfc1f5de5b70c5b70
