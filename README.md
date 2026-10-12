@@ -1257,6 +1257,16 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>HG680KF</td>
+                <td>Hi3798MV320</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4/5G</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>HG680-L</td>
                 <td>S905L</td>
                 <td>5.1</td>
@@ -1866,4 +1876,4 @@
 
 
 
-最新提交的SHA值: a0c7000871b418b35c826e8947a0e9ed3d362fac
+最新提交的SHA值: 03984c0dfce0956c12cc40a8a84274e2de1d33ab
