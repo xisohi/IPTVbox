@@ -75,6 +75,16 @@
                 <td>备注</td>
             </tr>
             <tr>
+                <td>HG680KF</td>
+                <td>Hi3798MV320</td>
+                <td>9.0</td>
+                <td>9.0</td>
+                <td>2.4/5G</td>
+                <td>100M</td>
+                <td>2+8G</td>
+                <td>备注</td>
+            </tr>
+            <tr>
                 <td>HG680-L</td>
                 <td>S905L</td>
                 <td>5.1</td>
